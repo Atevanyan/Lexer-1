@@ -1,4 +1,4 @@
-int first; [* integer]
+intt first; [* integer]
 real second; [*real integer
 
 
