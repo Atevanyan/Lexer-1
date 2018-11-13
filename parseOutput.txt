@@ -1,0 +1,7 @@
+Token:           Identifier		 Lexeme: intt
+
+<RAT18F> ::= <Opt Function Definitions> $$ <Opt Declaration List> <Statement List> $$
+<Opt Function Definitions> ::= <Empty>
+Error: Expected $$ instead of Identifier(intt) 
+No Match for <RAT18F>
+Line: 1
